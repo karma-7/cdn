@@ -1,0 +1,5 @@
+# Hi!
+# A basic redirect rule
+[[redirects]]
+  from = "/*"
+  to = "/blog/:splat"
